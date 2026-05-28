@@ -1,18 +1,5 @@
 # Reggaeton Be Gone
 
-![RBG](https://github.com/user-attachments/assets/82ae1932-0db3-41b7-aafb-94ccb48f4141)
-
-## 🧷 Updated Alternative: Pocket Gone
-
-If you want something simpler:
-
-**Pocket Gone**
-
-* 💸 Cheaper ($15 in parts)
-* 🎒 Portable 
-* 🔧 Easier to build 
-
-👉 https://pocketgone.com
 
 # 🎧🚫 Reggaeton Be Gone
 
@@ -98,7 +85,6 @@ Pin 2 → GND
 
 ### 🧩 v2.0 (Experimental)
 
-* Built for Nerdearla Chile
 * Incremental improvements
 
 ### 🧩 v3.0 (Experimental)
@@ -111,14 +97,6 @@ Pin 2 → GND
   * 🤖 Improved ML model
   * 🧱 Enclosure + full package
 
-👉 https://www.patreon.com/RoniBandini/shop/reggaeton-be-gone-version-experimental-3-860409
-
----
-
-## 📚 Full Instructions
-
-* 🇬🇧 https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2
-* 🇪🇸 https://www.youtube.com/watch?v=sPcHeiP9Xgg
 
 ---
 
@@ -129,12 +107,4 @@ Pin 2 → GND
 
 Use responsibly.
 
----
 
-## 📬 Contact
-
-* 📸 https://www.instagram.com/ronibandini/
-* 🐦 https://x.com/RoniBandini
-* 💼 https://www.linkedin.com/in/ronibandini/
-
----
